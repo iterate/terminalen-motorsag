@@ -1,5 +1,15 @@
 Velkommen til en workshop utenom det vanlige!
 
+> ⚠ OBS ⚠
+>
+> Vi flyttet kurset til [teodorlu/terminalen-motorsag][teodorlu-terminalen-motorsag].
+> Hvorfor?
+> Fordi sentrale Iterate-innsillinger tvingte alle til å aktivere 2FA på Github-kontoen sin.
+>
+> ⚠ OBS ⚠
+
+[teodorlu-terminalen-motorsag]: https://github.com/teodorlu/terminalen-motorsag
+
 &nbsp;
 
 <span>
